@@ -1,4 +1,5 @@
-UDEMY COURSE Created by [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1){:target="_blank"}
+UDEMY COURSE Created by <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1" target="_blank">Dr. Angela Yu</a>
+
 
 The Complete 2024 Web Development Bootcamp
 Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
