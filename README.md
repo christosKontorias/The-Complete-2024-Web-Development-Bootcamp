@@ -17,9 +17,9 @@ Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, N
 
 ## Course Content
 
-- **Sections:** 44
-- **Lectures:** 375
-- **Total Length:** 62 hours 12 minutes
+- Sections: 44
+- Lectures: 375
+- Total Length: 62 hours 12 minutes
 
 
 ## Description
