@@ -1,8 +1,9 @@
-UDEMY COURSE Created by [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1)
+UDEMY COURSE Created by [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/#instructor-1){:target="_blank"}
+
 The Complete 2024 Web Development Bootcamp
 Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
-##What You'll Learn:
+## What You'll Learn
 
 - Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.
 - Learn the latest technologies, including JavaScript, React, Node.js, and even Web3 development.
@@ -20,7 +21,7 @@ Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, N
 - **Total Length:** 62 hours 12 minutes
 
 
-##Description:
+## Description
 
 Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! 
 
