@@ -1,0 +1,84 @@
+body{
+    font-family: Cursive, Lucida Handwriting;
+}
+
+.section-home{
+    background-color: lightblue;
+}
+
+.home{
+    text-align: center;
+}
+
+.about{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.profile-pic{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.about > p{
+    width: 500px;
+    margin: 0 auto;
+}
+
+hr{
+    margin-top: 30px;
+    width: 50%;
+}
+
+.project {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.project1,
+.project2 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    align-items: center;
+}
+
+.gif1,
+.gif2 {
+    max-width: 100%;
+}
+
+.contact{
+    margin-top: 40px;
+    text-align: center;
+}
+
+button{
+    background-color: aqua;
+    text-transform: uppercase;
+    font-size: 25px;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: lightgray;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    margin-left: 10px;
+
+}
+
+li a{
+    text-decoration: none;
+}
