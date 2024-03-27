@@ -1,0 +1,17 @@
+<%- include("partials/header.ejs") %>
+
+<h1>All Submitted Articles</h1>
+
+<%- include("partials/menu.ejs") %>
+
+<div class="blog-posts">
+  <% posts.forEach(post => { %>
+      <div class="blog-post">
+          <h2>Title: <%= post.title %></h2>
+          <p>Article: <%= post.content %></p>
+          <p>Published on: <%= post.createdAt.toDateString() %></p>
+      </div>
+  <% }); %>
+</div>
+
+<%- include("partials/footer.ejs") %>
