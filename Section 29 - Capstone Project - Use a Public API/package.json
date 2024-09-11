@@ -1,0 +1,17 @@
+{
+  "name": "section-29---capstone-project---use-a-public-api",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js application that uses the CocktailDB API to provide users with random cocktail recipes along with images of the cocktails. The user can click a button to get a random cocktail recipe displayed on a new page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0"
+  }
+}
